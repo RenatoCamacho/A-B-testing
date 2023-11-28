@@ -41,7 +41,3 @@ The project is centered around an A/B test conducted for an online business to e
 ## Conclusions
 - Insights on user response to homepage redesign.
 - Recommendations for website optimization based on data-driven analysis.
-
-## Additional Resources
-- [Link_to_Your_Project]
-- [Link_to_Your_Video]
