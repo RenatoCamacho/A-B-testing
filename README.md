@@ -1,7 +1,7 @@
 # Online Business Homepage Redesign Analysis
 
 ## Project Overview
-In this project, we delve into the intricacies of optimizing website performance for an online business, focusing on the impact of homepage redesign on customer engagement and revenue. It showcases my skills in EDA using SQL, statistical and probability analysis with spreadsheets, data visualization with Tableau, and the ability to communicate complex information effectively through modern presentation techniques.
+In this project, I analyzed a website performance for an online business, focusing on a homepage redesign's impact on customer engagement and revenue. It showcases my skills in EDA using SQL, statistical and probability analysis with spreadsheets, data visualization with Tableau, and the ability to communicate complex information effectively through modern presentation techniques.
 ---
 
 ### Background
