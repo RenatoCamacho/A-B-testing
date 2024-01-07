@@ -1,17 +1,14 @@
 # Online Business Homepage Redesign Analysis
 
 ## Project Overview
-In this project, we delve into the intricacies of optimizing website performance for an online business, focusing on the impact of homepage redesign on customer engagement and revenue. The project encompasses an extensive Exploratory Data Analysis (EDA) using SQL, rigorous statistical and probability analysis with spreadsheets, and visualizations created in Tableau. It also includes presentations with AI-generated slides and insightful video annotations.
-
----
-This project showcases my skills in EDA using SQL, statistical and probability analysis with spreadsheets, data visualization with Tableau, and the ability to communicate complex information effectively through modern presentation techniques.
+In this project, we delve into the intricacies of optimizing website performance for an online business, focusing on the impact of homepage redesign on customer engagement and revenue. It showcases my skills in EDA using SQL, statistical and probability analysis with spreadsheets, data visualization with Tableau, and the ability to communicate complex information effectively through modern presentation techniques.
 ---
 
 ### Background
 The project is centered around an A/B test conducted for an online business to evaluate the effectiveness of a new homepage design, particularly a new promotional banner. This analysis aims to understand the influence of this redesign on user interaction and spending, thus aiding in strategic business decisions.
 
 ### Key Objectives
-- To perform an E/A test comparing the existing and new homepage designs.
+- To perform an A/B test comparing the existing and new homepage designs.
 - To analyze user response and average expenditure per user.
 - To determine the statistical significance of the homepage redesign.
 - To visualize data insights using Tableau for easy comprehension and decision-making.
